@@ -1,0 +1,5 @@
+charset-normalizer==3.3.2
+idna==3.6
+numpy==1.26.3
+pyreadline3==3.4.1
+urllib3==2.2.0
